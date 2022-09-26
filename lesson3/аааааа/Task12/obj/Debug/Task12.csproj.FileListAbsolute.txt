@@ -1,0 +1,7 @@
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\bin\Debug\Task12.exe
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\bin\Debug\Task12.pdb
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\obj\Debug\Task12.csproj.AssemblyReference.cache
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\obj\Debug\Task12.csproj.SuggestedBindingRedirects.cache
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\obj\Debug\Task12.csproj.CoreCompileInputs.cache
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\obj\Debug\Task12.exe
+C:\Users\LastName\Documents\GitHub\MDK.01.02\Task12\obj\Debug\Task12.pdb
